@@ -1114,89 +1114,105 @@ section.lazy-placeholder:after {
 .cid-rLHL9qB5AR .mbr-section-subtitle {
   color: #767676;
 }
-.cid-rLIfzRFXGO {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #f3f4f6;
+.cid-rLIwxAhMul {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/68488415-2362524803987754-6065326525916381184-o-1316x640.jpg");
 }
-.cid-rLIfzRFXGO .testimonial-text {
-  font-style: italic;
-  color: #676767;
-  font-weight: 300;
-  text-align: center;
+.cid-rLIwxAhMul .mbr-section-subtitle {
+  letter-spacing: .2rem;
 }
-.cid-rLIfzRFXGO .mbr-author-name {
-  font-weight: bold;
-  color: #232;
-  text-align: center;
-}
-.cid-rLIfzRFXGO .mbr-author-desc {
-  color: #232;
-  text-align: center;
-}
-@media (max-width: 991px) {
-  .cid-rLIfzRFXGO .mbr-figure,
-  .cid-rLIfzRFXGO img {
-    max-height: 300px;
-    width: auto;
-    margin: auto;
-  }
-}
-.cid-rLIfa4hldx {
-  padding-top: 30px;
-  padding-bottom: 30px;
+.cid-rLIwxAhMul .media-container-column {
   background-color: #ffffff;
 }
-.cid-rLIfa4hldx .testimonial-text {
-  font-style: italic;
-  color: #676767;
-  font-weight: 300;
-  text-align: center;
-}
-.cid-rLIfa4hldx .mbr-author-name {
-  font-weight: bold;
-  color: #232;
-  text-align: center;
-}
-.cid-rLIfa4hldx .mbr-author-desc {
-  color: #232;
-  text-align: center;
-}
-@media (max-width: 991px) {
-  .cid-rLIfa4hldx .mbr-figure,
-  .cid-rLIfa4hldx img {
-    max-height: 300px;
-    width: auto;
-    margin: auto;
+@media (max-width: 767px) {
+  .cid-rLIwxAhMul .media-container-column {
+    padding: 1rem !important;
   }
 }
-.cid-rLHywgPJUK {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #f3f4f6;
-}
-.cid-rLHywgPJUK .testimonial-text {
-  font-style: italic;
-  color: #676767;
-  font-weight: 300;
+.cid-rLIwxAhMul .mbr-text,
+.cid-rLIwxAhMul .mbr-section-btn {
+  color: #000000;
   text-align: center;
 }
-.cid-rLHywgPJUK .mbr-author-name {
-  font-weight: bold;
-  color: #232;
+.cid-rLIwxAhMul H3 {
+  color: #000000;
   text-align: center;
 }
-.cid-rLHywgPJUK .mbr-author-desc {
-  color: #232;
-  text-align: center;
+.cid-rLIx89SO5F {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/37798260-2104538706453033-7887712502870441984-o-1316x640.jpeg");
 }
-@media (max-width: 991px) {
-  .cid-rLHywgPJUK .mbr-figure,
-  .cid-rLHywgPJUK img {
-    max-height: 300px;
-    width: auto;
-    margin: auto;
+.cid-rLIx89SO5F .mbr-section-subtitle {
+  letter-spacing: .2rem;
+}
+.cid-rLIx89SO5F .media-container-column {
+  background-color: #ffffff;
+}
+@media (max-width: 767px) {
+  .cid-rLIx89SO5F .media-container-column {
+    padding: 1rem !important;
   }
+}
+.cid-rLIx89SO5F H3 {
+  color: #000000;
+  text-align: center;
+}
+.cid-rLIx89SO5F .mbr-text,
+.cid-rLIx89SO5F .mbr-section-btn {
+  color: #000000;
+  text-align: center;
+}
+.cid-rLIy9ugOgz {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/69853520-2381853985388169-7357310271179718656-o-2-640x1316.jpeg");
+}
+.cid-rLIy9ugOgz .mbr-section-subtitle {
+  letter-spacing: .2rem;
+}
+.cid-rLIy9ugOgz .media-container-column {
+  background-color: #ffffff;
+}
+@media (max-width: 767px) {
+  .cid-rLIy9ugOgz .media-container-column {
+    padding: 1rem !important;
+  }
+}
+.cid-rLIy9ugOgz H3 {
+  color: #000000;
+  text-align: center;
+}
+.cid-rLIy9ugOgz .mbr-text,
+.cid-rLIy9ugOgz .mbr-section-btn {
+  color: #000000;
+  text-align: center;
+}
+.cid-rLIzIjveC0 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/38032603-2111151049125132-8741948821933654016-o-1-1316x640.jpg");
+}
+.cid-rLIzIjveC0 .mbr-section-subtitle {
+  letter-spacing: .2rem;
+}
+.cid-rLIzIjveC0 .media-container-column {
+  background-color: #ffffff;
+}
+@media (max-width: 767px) {
+  .cid-rLIzIjveC0 .media-container-column {
+    padding: 1rem !important;
+  }
+}
+.cid-rLIzIjveC0 H3 {
+  color: #000000;
+  text-align: center;
+}
+.cid-rLIzIjveC0 .mbr-text,
+.cid-rLIzIjveC0 .mbr-section-btn {
+  text-align: center;
+  color: #000000;
 }
 .cid-rLHGrGyh4M {
   padding-top: 60px;
